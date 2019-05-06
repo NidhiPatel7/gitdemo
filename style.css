@@ -2,6 +2,7 @@ h1
 {
     font-size: 1.5em;
     color: aquamarine;
+    border: 0.3em solid red;
 }
 p{
     font-size: 1em;
